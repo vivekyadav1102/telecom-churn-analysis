@@ -30,7 +30,7 @@ This project focuses on analyzing customer churn behavior in a telecom dataset u
 ---
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Key Insights
 - Overall churn rate is approximately **~20% across all customers**
